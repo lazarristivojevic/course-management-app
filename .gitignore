@@ -1,0 +1,18 @@
+# Eclipse / IntelliJ fajlovi
+.project
+.classpath
+.settings/
+.idea/
+*.iml
+
+# Build fajlovi
+/bin/
+/build/
+/out/
+
+# Java class fajlovi
+*.class
+
+# OS fajlovi
+.DS_Store
+Thumbs.db
