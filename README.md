@@ -26,7 +26,6 @@ Projekat je namenjen za vežbanje objektno-orijentisanog dizajna, rada sa bazama
 * Swing GUI za jednostavno upravljanje  
 * Jasno razdvojeni slojevi aplikacije: model, CRUD, GUI  
 
-*(Opcionalno: dodaj screenshot GUI-a za vizuelni prikaz)*
 
 ---
 
